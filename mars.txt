@@ -1,4 +1,4 @@
 Cold and dry, but everthing is my favorite color
 Now we are adding more lines of text
 We have added a third line to explain another example I do believe
-The collaborator screws up and adds a different line!
+I removed a merge conflict from this line
