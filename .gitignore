@@ -1,0 +1,3 @@
+#list things that we would like to ignore
+*.dat
+results/
